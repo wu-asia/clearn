@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\gcdf1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FE8295-CE8B-4489-94B4-6C2BD0C8DE80}|gcdf1\\gcdf1.vcxproj|D:\\develop\\Sources\\clearn\\gcdf1\\gcdf1\\gcd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0FE8295-CE8B-4489-94B4-6C2BD0C8DE80}|gcdf1\\gcdf1.vcxproj|solutionrelative:gcdf1\\gcd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gcd.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\gcdf1\\gcdf1\\gcd.c",
+              "RelativeDocumentMoniker": "gcdf1\\gcd.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\gcdf1\\gcdf1\\gcd.c*",
+              "RelativeToolTip": "gcdf1\\gcd.c*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T05:34:28.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
