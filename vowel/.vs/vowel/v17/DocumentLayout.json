@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\vowel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8702C174-6A66-406B-A3CE-B2C412B2E934}|vowel\\vowel.vcxproj|D:\\develop\\Sources\\clearn\\vowel\\vowel\\fget.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8702C174-6A66-406B-A3CE-B2C412B2E934}|vowel\\vowel.vcxproj|solutionrelative:vowel\\fget.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8702C174-6A66-406B-A3CE-B2C412B2E934}|vowel\\vowel.vcxproj|D:\\develop\\Sources\\clearn\\vowel\\vowel\\vowel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8702C174-6A66-406B-A3CE-B2C412B2E934}|vowel\\vowel.vcxproj|solutionrelative:vowel\\vowel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vowel.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\vowel\\vowel\\vowel.c",
+              "RelativeDocumentMoniker": "vowel\\vowel.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\vowel\\vowel\\vowel.c",
+              "RelativeToolTip": "vowel\\vowel.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T01:30:05.375Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fget.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\vowel\\vowel\\fget.c",
+              "RelativeDocumentMoniker": "vowel\\fget.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\vowel\\vowel\\fget.c",
+              "RelativeToolTip": "vowel\\fget.c",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T01:38:44.751Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
