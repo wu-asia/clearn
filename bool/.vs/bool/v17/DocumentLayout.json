@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\bool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88193501-B37D-4661-9932-1A278B15C09E}|bool\\bool.vcxproj|D:\\develop\\Sources\\clearn\\bool\\bool\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88193501-B37D-4661-9932-1A278B15C09E}|bool\\bool.vcxproj|solutionrelative:bool\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88193501-B37D-4661-9932-1A278B15C09E}|bool\\bool.vcxproj|D:\\develop\\Sources\\clearn\\bool\\bool\\bool.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88193501-B37D-4661-9932-1A278B15C09E}|bool\\bool.vcxproj|solutionrelative:bool\\bool.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88193501-B37D-4661-9932-1A278B15C09E}|bool\\bool.vcxproj|D:\\develop\\Sources\\clearn\\bool\\bool\\true_false.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88193501-B37D-4661-9932-1A278B15C09E}|bool\\bool.vcxproj|solutionrelative:bool\\true_false.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88193501-B37D-4661-9932-1A278B15C09E}|bool\\bool.vcxproj|D:\\develop\\Sources\\clearn\\bool\\bool\\answer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88193501-B37D-4661-9932-1A278B15C09E}|bool\\bool.vcxproj|solutionrelative:bool\\answer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "factorial.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\bool\\bool\\factorial.c",
+              "RelativeDocumentMoniker": "bool\\factorial.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\bool\\bool\\factorial.c",
+              "RelativeToolTip": "bool\\factorial.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T07:58:12.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "answer.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\bool\\bool\\answer.c",
+              "RelativeDocumentMoniker": "bool\\answer.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\bool\\bool\\answer.c",
+              "RelativeToolTip": "bool\\answer.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T07:41:29.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "true_false.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\bool\\bool\\true_false.c",
+              "RelativeDocumentMoniker": "bool\\true_false.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\bool\\bool\\true_false.c",
+              "RelativeToolTip": "bool\\true_false.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T06:59:19.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bool.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\bool\\bool\\bool.c",
+              "RelativeDocumentMoniker": "bool\\bool.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\bool\\bool\\bool.c",
+              "RelativeToolTip": "bool\\bool.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T06:54:30.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
