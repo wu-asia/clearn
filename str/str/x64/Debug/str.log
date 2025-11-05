@@ -1,0 +1,4 @@
+﻿  string.c
+D:\develop\Sources\clearn\str\str\string.c(43,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\Sources\clearn\str\str\string.c(32,1): warning C4715: “ishui”: 不是所有的控件路径都返回值
+  str.vcxproj -> D:\develop\Sources\clearn\str\x64\Debug\str.exe
