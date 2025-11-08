@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\strcat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7795E178-0C06-4413-8F89-4F078FD14FC7}|strcat\\strcat.vcxproj|D:\\develop\\Sources\\clearn\\strcat\\strcat\\impstrcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7795E178-0C06-4413-8F89-4F078FD14FC7}|strcat\\strcat.vcxproj|solutionrelative:strcat\\impstrcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7795E178-0C06-4413-8F89-4F078FD14FC7}|strcat\\strcat.vcxproj|D:\\develop\\Sources\\clearn\\strcat\\strcat\\strcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7795E178-0C06-4413-8F89-4F078FD14FC7}|strcat\\strcat.vcxproj|solutionrelative:strcat\\strcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7795E178-0C06-4413-8F89-4F078FD14FC7}|strcat\\strcat.vcxproj|D:\\develop\\Sources\\clearn\\strcat\\strcat\\impstrcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7795E178-0C06-4413-8F89-4F078FD14FC7}|strcat\\strcat.vcxproj|solutionrelative:strcat\\impstrcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "strcat.c",
               "DocumentMoniker": "D:\\develop\\Sources\\clearn\\strcat\\strcat\\strcat.c",
               "RelativeDocumentMoniker": "strcat\\strcat.c",
-              "ToolTip": "D:\\develop\\Sources\\clearn\\strcat\\strcat\\strcat.c*",
-              "RelativeToolTip": "strcat\\strcat.c*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBsAAAADAAAAAAAAAA==",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\strcat\\strcat\\strcat.c",
+              "RelativeToolTip": "strcat\\strcat.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-05T05:51:44.649Z",
               "EditorCaption": ""
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "impstrcat.c",
               "DocumentMoniker": "D:\\develop\\Sources\\clearn\\strcat\\strcat\\impstrcat.c",
               "RelativeDocumentMoniker": "strcat\\impstrcat.c",
               "ToolTip": "D:\\develop\\Sources\\clearn\\strcat\\strcat\\impstrcat.c",
               "RelativeToolTip": "strcat\\impstrcat.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-05T06:10:58.85Z",
               "EditorCaption": ""
