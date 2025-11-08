@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\stringcat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D0120A-DFD8-4096-95DB-71EC67674631}|stringcat\\stringcat.vcxproj|D:\\develop\\Sources\\clearn\\stringcat\\stringcat\\stringcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3D0120A-DFD8-4096-95DB-71EC67674631}|stringcat\\stringcat.vcxproj|solutionrelative:stringcat\\stringcat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stringcat.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\stringcat\\stringcat\\stringcat.c",
+              "RelativeDocumentMoniker": "stringcat\\stringcat.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\stringcat\\stringcat\\stringcat.c",
+              "RelativeToolTip": "stringcat\\stringcat.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-06T11:48:06.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
