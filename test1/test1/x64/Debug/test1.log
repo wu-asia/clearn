@@ -1,0 +1,6 @@
+﻿  up.cpp
+D:\develop\Sources\clearn\test1\test1\up.cpp(85,11): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\develop\Sources\clearn\test1\test1\up.cpp(191,9): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\develop\Sources\clearn\test1\test1\up.cpp(193,12): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\develop\Sources\clearn\test1\test1\up.cpp(245,6): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\develop\Sources\clearn\test1\test1\up.cpp(247,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据

@@ -1,0 +1,5 @@
+﻿  plane.c
+D:\develop\Sources\clearn\yes\yes\plane.c(85,11): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\develop\Sources\clearn\yes\yes\plane.c(191,9): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\develop\Sources\clearn\yes\yes\plane.c(193,12): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\develop\Sources\clearn\yes\yes\plane.c(247,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
