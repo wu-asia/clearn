@@ -1,0 +1,3 @@
+﻿  pp.c
+D:\develop\Sources\clearn\ppintor\ppintor\pp.c(145,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ppintor.vcxproj -> D:\develop\Sources\clearn\ppintor\x64\Debug\ppintor.exe
