@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\strlesn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14FB36A8-8E8F-4149-8FAF-B3AC2849CD0B}|strlesn\\strlesn.vcxproj|D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14FB36A8-8E8F-4149-8FAF-B3AC2849CD0B}|strlesn\\strlesn.vcxproj|solutionrelative:strlesn\\system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FB36A8-8E8F-4149-8FAF-B3AC2849CD0B}|strlesn\\strlesn.vcxproj|D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\password.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14FB36A8-8E8F-4149-8FAF-B3AC2849CD0B}|strlesn\\strlesn.vcxproj|solutionrelative:strlesn\\password.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FB36A8-8E8F-4149-8FAF-B3AC2849CD0B}|strlesn\\strlesn.vcxproj|D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\inverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14FB36A8-8E8F-4149-8FAF-B3AC2849CD0B}|strlesn\\strlesn.vcxproj|solutionrelative:strlesn\\inverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FB36A8-8E8F-4149-8FAF-B3AC2849CD0B}|strlesn\\strlesn.vcxproj|D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\strlen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14FB36A8-8E8F-4149-8FAF-B3AC2849CD0B}|strlesn\\strlesn.vcxproj|solutionrelative:strlesn\\strlen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "system.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\system.c",
+              "RelativeDocumentMoniker": "strlesn\\system.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\system.c*",
+              "RelativeToolTip": "strlesn\\system.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-18T14:19:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "password.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\password.c",
+              "RelativeDocumentMoniker": "strlesn\\password.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\password.c",
+              "RelativeToolTip": "strlesn\\password.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-18T14:19:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inverse.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\inverse.c",
+              "RelativeDocumentMoniker": "strlesn\\inverse.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\inverse.c",
+              "RelativeToolTip": "strlesn\\inverse.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-18T12:39:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "strlen.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\strlen.c",
+              "RelativeDocumentMoniker": "strlesn\\strlen.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\strlesn\\strlesn\\strlen.c",
+              "RelativeToolTip": "strlesn\\strlen.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-18T12:35:05.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
