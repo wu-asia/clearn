@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\dowhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{774E3C1D-F295-4339-A14E-01044796E9BE}|dowhile\\dowhile.vcxproj|D:\\develop\\Sources\\clearn\\dowhile\\dowhile\\derivative.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{774E3C1D-F295-4339-A14E-01044796E9BE}|dowhile\\dowhile.vcxproj|solutionrelative:dowhile\\derivative.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774E3C1D-F295-4339-A14E-01044796E9BE}|dowhile\\dowhile.vcxproj|D:\\develop\\Sources\\clearn\\dowhile\\dowhile\\dowhile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{774E3C1D-F295-4339-A14E-01044796E9BE}|dowhile\\dowhile.vcxproj|solutionrelative:dowhile\\dowhile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "derivative.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\dowhile\\dowhile\\derivative.c",
+              "RelativeDocumentMoniker": "dowhile\\derivative.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\dowhile\\dowhile\\derivative.c*",
+              "RelativeToolTip": "dowhile\\derivative.c*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T02:43:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dowhile.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\dowhile\\dowhile\\dowhile.c",
+              "RelativeDocumentMoniker": "dowhile\\dowhile.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\dowhile\\dowhile\\dowhile.c",
+              "RelativeToolTip": "dowhile\\dowhile.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T01:45:47.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  derivative.c
+D:\develop\Sources\clearn\dowhile\dowhile\derivative.c(27,34): warning C4047: “!=”:“int”与“char [2]”的间接级别不同
+D:\develop\Sources\clearn\dowhile\dowhile\derivative.c(29,35): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+  dowhile.vcxproj -> D:\develop\Sources\clearn\dowhile\x64\Debug\dowhile.exe
