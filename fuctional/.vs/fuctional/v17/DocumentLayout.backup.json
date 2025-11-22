@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\fuctional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9375AD1D-306B-403C-90F8-E8D7B7BE8C0C}|fuctional\\fuctional.vcxproj|D:\\develop\\Sources\\clearn\\fuctional\\fuctional\\fuction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9375AD1D-306B-403C-90F8-E8D7B7BE8C0C}|fuctional\\fuctional.vcxproj|solutionrelative:fuctional\\fuction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fuction.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\fuctional\\fuctional\\fuction.c",
+              "RelativeDocumentMoniker": "fuctional\\fuction.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\fuctional\\fuctional\\fuction.c*",
+              "RelativeToolTip": "fuctional\\fuction.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-21T13:55:55.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
