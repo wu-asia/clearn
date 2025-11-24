@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\recursion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42CA2389-06C8-48CD-8C9F-740FE00620E7}|recursion\\recursion.vcxproj|D:\\develop\\Sources\\clearn\\recursion\\recursion\\recursion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42CA2389-06C8-48CD-8C9F-740FE00620E7}|recursion\\recursion.vcxproj|solutionrelative:recursion\\recursion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "recursion.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\recursion\\recursion\\recursion.c",
+              "RelativeDocumentMoniker": "recursion\\recursion.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\recursion\\recursion\\recursion.c*",
+              "RelativeToolTip": "recursion\\recursion.c*",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAgwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-23T02:24:31.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
