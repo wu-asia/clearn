@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\largest_divisior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDAF15A-4252-4D19-8BC8-D3E0540D3876}|largest_divisior\\largest_divisior.vcxproj|D:\\develop\\Sources\\clearn\\largest_divisior\\largest_divisior\\lcd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BDAF15A-4252-4D19-8BC8-D3E0540D3876}|largest_divisior\\largest_divisior.vcxproj|solutionrelative:largest_divisior\\lcd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lcd.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\largest_divisior\\largest_divisior\\lcd.c",
+              "RelativeDocumentMoniker": "largest_divisior\\lcd.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\largest_divisior\\largest_divisior\\lcd.c*",
+              "RelativeToolTip": "largest_divisior\\lcd.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T13:02:43.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
