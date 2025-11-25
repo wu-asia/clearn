@@ -1,0 +1,5 @@
+﻿  hanoi.c
+  woc.c
+  正在生成代码...
+D:\develop\Sources\clearn\woc\woc\woc.c(26,1): warning C4715: “Gcd”: 不是所有的控件路径都返回值
+  woc.vcxproj -> D:\develop\Sources\clearn\woc\x64\Debug\woc.exe
