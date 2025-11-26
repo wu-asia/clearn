@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\maximum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A1718C-240C-469B-B3C4-AFE9E82968A4}|maximum\\maximum.vcxproj|D:\\develop\\Sources\\clearn\\maximum\\maximum\\maximum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9A1718C-240C-469B-B3C4-AFE9E82968A4}|maximum\\maximum.vcxproj|solutionrelative:maximum\\maximum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "maximum.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\maximum\\maximum\\maximum.c",
+              "RelativeDocumentMoniker": "maximum\\maximum.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\maximum\\maximum\\maximum.c*",
+              "RelativeToolTip": "maximum\\maximum.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-26T07:31:50.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
