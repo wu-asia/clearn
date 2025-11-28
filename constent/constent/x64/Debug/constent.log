@@ -1,0 +1,4 @@
+﻿  constent.c
+D:\develop\Sources\clearn\constent\constent\constent.c(12,7): warning C4101: “ch”: 未引用的局部变量
+D:\develop\Sources\clearn\constent\constent\constent.c(13,9): warning C4101: “date”: 未引用的局部变量
+  constent.vcxproj -> D:\develop\Sources\clearn\constent\x64\Debug\constent.exe

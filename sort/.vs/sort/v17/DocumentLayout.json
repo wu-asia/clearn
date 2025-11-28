@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\sort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|D:\\develop\\Sources\\clearn\\sort\\sort\\multify_table.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|solutionrelative:sort\\multify_table.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|D:\\develop\\Sources\\clearn\\sort\\sort\\sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|solutionrelative:sort\\sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|D:\\develop\\Sources\\clearn\\sort\\sort\\sss.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|solutionrelative:sort\\sss.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|D:\\develop\\Sources\\clearn\\sort\\sort\\sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|solutionrelative:sort\\sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|D:\\develop\\Sources\\clearn\\sort\\sort\\multify_table.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7633BEE5-0BA2-401F-922B-2E359BC4D77B}|sort\\sort.vcxproj|solutionrelative:sort\\multify_table.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "multify_table.c",
               "DocumentMoniker": "D:\\develop\\Sources\\clearn\\sort\\sort\\multify_table.c",
               "RelativeDocumentMoniker": "sort\\multify_table.c",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "sort.c",
               "DocumentMoniker": "D:\\develop\\Sources\\clearn\\sort\\sort\\sort.c",
               "RelativeDocumentMoniker": "sort\\sort.c",
               "ToolTip": "D:\\develop\\Sources\\clearn\\sort\\sort\\sort.c",
               "RelativeToolTip": "sort\\sort.c",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-26T06:35:07.155Z",
               "EditorCaption": ""
