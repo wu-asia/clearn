@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\improve_chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A232D-62EE-4046-B659-35CB56081E38}|improve_chess\\improve_chess.vcxproj|D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D7A232D-62EE-4046-B659-35CB56081E38}|improve_chess\\improve_chess.vcxproj|solutionrelative:improve_chess\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A232D-62EE-4046-B659-35CB56081E38}|improve_chess\\improve_chess.vcxproj|D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D7A232D-62EE-4046-B659-35CB56081E38}|improve_chess\\improve_chess.vcxproj|solutionrelative:improve_chess\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A232D-62EE-4046-B659-35CB56081E38}|improve_chess\\improve_chess.vcxproj|D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D7A232D-62EE-4046-B659-35CB56081E38}|improve_chess\\improve_chess.vcxproj|solutionrelative:improve_chess\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\game.c",
+              "RelativeDocumentMoniker": "improve_chess\\game.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\game.c",
+              "RelativeToolTip": "improve_chess\\game.c",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-29T08:09:02.767Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\game.h",
+              "RelativeDocumentMoniker": "improve_chess\\game.h",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\game.h",
+              "RelativeToolTip": "improve_chess\\game.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T08:09:21.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\test.c",
+              "RelativeDocumentMoniker": "improve_chess\\test.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\improve_chess\\improve_chess\\test.c*",
+              "RelativeToolTip": "improve_chess\\test.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-29T08:09:09.369Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
