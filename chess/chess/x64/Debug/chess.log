@@ -1,10 +1,1 @@
-﻿  game.c
-D:\develop\Sources\clearn\chess\chess\game.c(45,28): warning C4474: printf: 格式字符串中传递的参数太多
-      D:\develop\Sources\clearn\chess\chess\game.c(45,28):
-      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
-  
-D:\develop\Sources\clearn\chess\chess\game.c(49,27): warning C4474: printf: 格式字符串中传递的参数太多
-      D:\develop\Sources\clearn\chess\chess\game.c(49,27):
-      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
-  
-  chess.vcxproj -> D:\develop\Sources\clearn\chess\x64\Debug\chess.exe
+﻿LINK : fatal error LNK1168: 无法打开 D:\develop\Sources\clearn\chess\x64\Debug\chess.exe 进行写入

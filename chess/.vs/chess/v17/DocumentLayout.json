@@ -21,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 187,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "chess\\test.c",
               "ToolTip": "D:\\develop\\Sources\\clearn\\chess\\chess\\test.c",
               "RelativeToolTip": "chess\\test.c",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-28T13:44:14.79Z",
               "IsPinned": true,
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 213,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "chess\\game.c",
               "ToolTip": "D:\\develop\\Sources\\clearn\\chess\\chess\\game.c",
               "RelativeToolTip": "chess\\game.c",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-28T13:44:03.215Z",
               "IsPinned": true,
@@ -70,9 +70,10 @@
               "RelativeDocumentMoniker": "chess\\game.h",
               "ToolTip": "D:\\develop\\Sources\\clearn\\chess\\chess\\game.h",
               "RelativeToolTip": "chess\\game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-28T13:44:22.687Z"
+              "WhenOpened": "2025-11-28T13:44:22.687Z",
+              "EditorCaption": ""
             }
           ]
         }

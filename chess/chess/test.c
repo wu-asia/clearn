@@ -1,43 +1,40 @@
-
 #include"game.h"
 
 void menu()
 {
-	printf("******************************\n");
-	printf("***********0. exit ***********\n");
-	printf("***********1. enter***********\n");
-	printf("******************************\n");
+	printf("****************************\n");
+	printf("*********** 1 play *********\n");
+	printf("*********** 0 exit *********\n");
+	printf("****************************\n");
 }
-
+char board[ROW][COL] = { 0 };
 void game()
 {
-	char board[ROW][COL] = { 0 };
-	//初始化board函数
-	InitBoard(board, ROW, COL);
+	IntiBoard(board, ROW, COL);
 	DisplayBoard(board, ROW, COL);
 }
 int main()
 {
-	int n = 1;
-
+	
+	int input;
 	do
 	{
-
+		
 		menu();
-		printf("请选择:>");
-		scanf("%d", &n);
-		if (n == 1)
+		printf("请输入数字:>");
+		scanf("%d", &input);
+		switch (input)
 		{
+		case 1:
 			printf("三子棋\n");
 			game();
 			break;
-		}
-		else if (n == 0)
-		{
+		case 0:
 			printf("游戏结束\n");
-			break;
+		default:
+			printf("输入错误，请重新输入！\n");
 		}
 
-	} while (n);
+	} while (input);
 	return 0;
 }
