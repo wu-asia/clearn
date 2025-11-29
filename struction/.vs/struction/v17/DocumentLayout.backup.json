@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B1018D0-F620-4D24-ACEE-A02EBE98E88F}|struction\\struction.vcxproj|D:\\develop\\Sources\\clearn\\struction\\struction\\struction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B1018D0-F620-4D24-ACEE-A02EBE98E88F}|struction\\struction.vcxproj|solutionrelative:struction\\struction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1018D0-F620-4D24-ACEE-A02EBE98E88F}|struction\\struction.vcxproj|D:\\develop\\Sources\\clearn\\struction\\struction\\MINI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B1018D0-F620-4D24-ACEE-A02EBE98E88F}|struction\\struction.vcxproj|solutionrelative:struction\\MINI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1018D0-F620-4D24-ACEE-A02EBE98E88F}|struction\\struction.vcxproj|D:\\develop\\Sources\\clearn\\struction\\struction\\define.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B1018D0-F620-4D24-ACEE-A02EBE98E88F}|struction\\struction.vcxproj|solutionrelative:struction\\define.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MINI.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\struction\\struction\\MINI.c",
+              "RelativeDocumentMoniker": "struction\\MINI.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\struction\\struction\\MINI.c",
+              "RelativeToolTip": "struction\\MINI.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-26T06:31:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "define.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\struction\\struction\\define.c",
+              "RelativeDocumentMoniker": "struction\\define.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\struction\\struction\\define.c",
+              "RelativeToolTip": "struction\\define.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-26T06:30:40.297Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "struction.c",
               "DocumentMoniker": "D:\\develop\\Sources\\clearn\\struction\\struction\\struction.c",
               "RelativeDocumentMoniker": "struction\\struction.c",
-              "ToolTip": "D:\\develop\\Sources\\clearn\\struction\\struction\\struction.c*",
-              "RelativeToolTip": "struction\\struction.c*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAwwDgAAAAKAAAAAAAAAA==",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\struction\\struction\\struction.c",
+              "RelativeToolTip": "struction\\struction.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-26T05:36:25.349Z",
               "EditorCaption": ""
