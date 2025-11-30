@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\wor\u03BA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D78017E0-36F0-41D1-B744-EC4635F66902}|wor\u03BA\\wor\u03BA.vcxproj|D:\\develop\\Sources\\clearn\\wor\u03BA\\wor\u03BA\\\u03C2\u03BF\u03C1\u03BA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D78017E0-36F0-41D1-B744-EC4635F66902}|wor\u03BA\\wor\u03BA.vcxproj|solutionrelative:wor\u03BA\\\u03C2\u03BF\u03C1\u03BA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u03C2\u03BF\u03C1\u03BA.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\wor\u03BA\\wor\u03BA\\\u03C2\u03BF\u03C1\u03BA.c",
+              "RelativeDocumentMoniker": "wor\u03BA\\\u03C2\u03BF\u03C1\u03BA.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\wor\u03BA\\wor\u03BA\\\u03C2\u03BF\u03C1\u03BA.c",
+              "RelativeToolTip": "wor\u03BA\\\u03C2\u03BF\u03C1\u03BA.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-30T07:02:49.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

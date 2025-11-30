@@ -1,0 +1,4 @@
+﻿  ςορκ.c
+D:\develop\Sources\clearn\worκ\worκ\ςορκ.c(29,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\Sources\clearn\worκ\worκ\ςορκ.c(58,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  worκ.vcxproj -> D:\develop\Sources\clearn\worκ\x64\Debug\worκ.exe

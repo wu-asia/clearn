@@ -21,9 +21,13 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 213,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 400,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,34 +36,9 @@
               "RelativeDocumentMoniker": "reco_chess.c\\testa.c",
               "ToolTip": "D:\\develop\\Sources\\clearn\\reco_chess.c\\reco_chess.c\\testa.c",
               "RelativeToolTip": "reco_chess.c\\testa.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwBIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-29T00:33:57.557Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 187,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "gamea.c",
-              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\reco_chess.c\\reco_chess.c\\gamea.c",
-              "RelativeDocumentMoniker": "reco_chess.c\\gamea.c",
-              "ToolTip": "D:\\develop\\Sources\\clearn\\reco_chess.c\\reco_chess.c\\gamea.c",
-              "RelativeToolTip": "reco_chess.c\\gamea.c",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAgwJ0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-29T00:34:07.715Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -70,9 +49,22 @@
               "RelativeDocumentMoniker": "reco_chess.c\\gamea.h",
               "ToolTip": "D:\\develop\\Sources\\clearn\\reco_chess.c\\reco_chess.c\\gamea.h",
               "RelativeToolTip": "reco_chess.c\\gamea.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-29T00:34:29.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gamea.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\reco_chess.c\\reco_chess.c\\gamea.c",
+              "RelativeDocumentMoniker": "reco_chess.c\\gamea.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\reco_chess.c\\reco_chess.c\\gamea.c",
+              "RelativeToolTip": "reco_chess.c\\gamea.c",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-29T00:34:07.715Z",
               "EditorCaption": ""
             }
           ]
