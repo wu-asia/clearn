@@ -1,0 +1,3 @@
+﻿  digitsum.c
+D:\develop\Sources\clearn\digitsum\digitsum\digitsum.c(47,9): warning C4475: “printf”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+  digitsum.vcxproj -> D:\develop\Sources\clearn\digitsum\x64\Debug\digitsum.exe
