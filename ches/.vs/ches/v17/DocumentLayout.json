@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\ches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D38F7A-F215-4470-A3F9-515C2A3C7BC2}|ches\\ches.vcxproj|D:\\develop\\Sources\\clearn\\ches\\ches\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22D38F7A-F215-4470-A3F9-515C2A3C7BC2}|ches\\ches.vcxproj|solutionrelative:ches\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D38F7A-F215-4470-A3F9-515C2A3C7BC2}|ches\\ches.vcxproj|D:\\develop\\Sources\\clearn\\ches\\ches\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22D38F7A-F215-4470-A3F9-515C2A3C7BC2}|ches\\ches.vcxproj|solutionrelative:ches\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D38F7A-F215-4470-A3F9-515C2A3C7BC2}|ches\\ches.vcxproj|D:\\develop\\Sources\\clearn\\ches\\ches\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22D38F7A-F215-4470-A3F9-515C2A3C7BC2}|ches\\ches.vcxproj|solutionrelative:ches\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 624,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\ches\\ches\\game.c",
+              "RelativeDocumentMoniker": "ches\\game.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\ches\\ches\\game.c",
+              "RelativeToolTip": "ches\\game.c",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-03T05:27:13.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\ches\\ches\\game.h",
+              "RelativeDocumentMoniker": "ches\\game.h",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\ches\\ches\\game.h",
+              "RelativeToolTip": "ches\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-03T05:27:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\ches\\ches\\test.c",
+              "RelativeDocumentMoniker": "ches\\test.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\ches\\ches\\test.c",
+              "RelativeToolTip": "ches\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-03T05:27:14.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

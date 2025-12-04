@@ -1,0 +1,6 @@
+﻿  game.c
+D:\develop\Sources\clearn\ches\ches\game.c(122,63): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\develop\Sources\clearn\ches\ches\game.c(126,63): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  test.c
+  正在生成代码...
+  ches.vcxproj -> D:\develop\Sources\clearn\ches\x64\Debug\ches.exe
