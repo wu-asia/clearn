@@ -1,0 +1,3 @@
+﻿  sixth_12.c
+D:\develop\Sources\solu2\sixth_12\sixth_12\sixth_12.c(35,1): warning C4715: “arcfactorial”: 不是所有的控件路径都返回值
+  sixth_12.vcxproj -> D:\develop\Sources\solu2\sixth_12\x64\Debug\sixth_12.exe
