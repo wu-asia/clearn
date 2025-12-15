@@ -1,0 +1,3 @@
+﻿  game.c
+D:\develop\Sources\clearn\Mine\Mine\game.c(88,18): warning C4048: “char (*)[11]”和“char (*)[9]”数组的下标不同
+  Mine.vcxproj -> D:\develop\Sources\clearn\Mine\x64\Debug\Mine.exe

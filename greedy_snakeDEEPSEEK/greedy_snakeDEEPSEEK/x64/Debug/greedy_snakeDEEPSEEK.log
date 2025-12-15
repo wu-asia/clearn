@@ -1,0 +1,3 @@
+﻿  GREEDY_SNAKE1DEEPSEEK.cpp
+D:\develop\User\Source\repos\solution2\greedy_snakeDEEPSEEK\greedy_snakeDEEPSEEK\GREEDY_SNAKE1DEEPSEEK.cpp(41,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  greedy_snakeDEEPSEEK.vcxproj -> D:\develop\User\Source\repos\solution2\greedy_snakeDEEPSEEK\x64\Debug\greedy_snakeDEEPSEEK.exe
