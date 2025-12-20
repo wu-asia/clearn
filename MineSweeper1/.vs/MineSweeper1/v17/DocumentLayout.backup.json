@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 637,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -35,8 +35,11 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T05:30:29.761Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -48,8 +51,7 @@
               "RelativeToolTip": "MineSweeper1\\game.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T05:30:19.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T05:30:19.248Z"
             },
             {
               "$type": "Document",
@@ -57,16 +59,12 @@
               "Title": "game.c",
               "DocumentMoniker": "D:\\develop\\Sources\\clearn\\MineSweeper1\\MineSweeper1\\game.c",
               "RelativeDocumentMoniker": "MineSweeper1\\game.c",
-              "ToolTip": "D:\\develop\\Sources\\clearn\\MineSweeper1\\MineSweeper1\\game.c*",
-              "RelativeToolTip": "MineSweeper1\\game.c*",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHcAAAA2AAAAAAAAAA==",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\MineSweeper1\\MineSweeper1\\game.c",
+              "RelativeToolTip": "MineSweeper1\\game.c",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T05:30:45.663Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
