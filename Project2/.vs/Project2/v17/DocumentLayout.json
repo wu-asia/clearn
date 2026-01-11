@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8C9A1B-0B3C-479B-B2F2-464A61FBC16A}|Project2\\Project2.vcxproj|D:\\develop\\Sources\\clearn\\Project2\\Project2\\projext.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C8C9A1B-0B3C-479B-B2F2-464A61FBC16A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\projext.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "projext.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\Project2\\Project2\\projext.c",
+              "RelativeDocumentMoniker": "Project2\\projext.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\Project2\\Project2\\projext.c",
+              "RelativeToolTip": "Project2\\projext.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-24T00:52:56.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
