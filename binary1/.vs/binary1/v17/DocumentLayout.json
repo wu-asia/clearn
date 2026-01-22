@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\binary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F0B66-A940-42C0-95E2-401C4AD3BD3F}|binary1\\binary1.vcxproj|D:\\develop\\Sources\\clearn\\binary1\\binary1\\haha.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B8F0B66-A940-42C0-95E2-401C4AD3BD3F}|binary1\\binary1.vcxproj|solutionrelative:binary1\\haha.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "haha.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\binary1\\binary1\\haha.c",
+              "RelativeDocumentMoniker": "binary1\\haha.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\binary1\\binary1\\haha.c",
+              "RelativeToolTip": "binary1\\haha.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-19T13:34:27.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
