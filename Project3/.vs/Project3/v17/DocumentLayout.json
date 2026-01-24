@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87A10860-640B-4C4C-8780-1F0EDB76E308}|Project3\\Project3.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\bubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87A10860-640B-4C4C-8780-1F0EDB76E308}|Project3\\Project3.vcxproj|solutionrelative:Project3\\bubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A10860-640B-4C4C-8780-1F0EDB76E308}|Project3\\Project3.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\buffer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87A10860-640B-4C4C-8780-1F0EDB76E308}|Project3\\Project3.vcxproj|solutionrelative:Project3\\buffer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87A10860-640B-4C4C-8780-1F0EDB76E308}|Project3\\Project3.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\tt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87A10860-640B-4C4C-8780-1F0EDB76E308}|Project3\\Project3.vcxproj|solutionrelative:Project3\\tt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bubble.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\bubble.c",
+              "RelativeDocumentMoniker": "Project3\\bubble.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\bubble.c",
+              "RelativeToolTip": "Project3\\bubble.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-23T12:11:14.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "buffer.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\buffer.c",
+              "RelativeDocumentMoniker": "Project3\\buffer.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\buffer.c",
+              "RelativeToolTip": "Project3\\buffer.c",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-23T11:31:44.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "tt.c",
               "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\tt.c",
               "RelativeDocumentMoniker": "Project3\\tt.c",
-              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\tt.c*",
-              "RelativeToolTip": "Project3\\tt.c*",
-              "ViewState": "AgIAAHAAAAAAAAAAAADwv3sAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\Project3\\Project3\\tt.c",
+              "RelativeToolTip": "Project3\\tt.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-22T14:22:56.22Z",
               "EditorCaption": ""
