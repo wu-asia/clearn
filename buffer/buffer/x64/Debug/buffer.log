@@ -1,0 +1,46 @@
+﻿  string_arr.c
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(100,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(100,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(101,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(101,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(102,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(102,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(105,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(105,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(108,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(108,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(111,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(111,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(114,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(114,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(115,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(115,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(116,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(116,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(117,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(117,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(118,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\develop\Sources\Clanguage\clearn\buffer\buffer\string_arr.c(118,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  buffer.vcxproj -> D:\develop\Sources\Clanguage\clearn\buffer\x64\Debug\buffer.exe
