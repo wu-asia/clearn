@@ -1,0 +1,322 @@
+﻿  eighteenth.c
+  eighth.c
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(25,21): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(25,21): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(25,27): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(25,27): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(25,30): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(25,35): error C2059: 语法错误:“)”
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(26,13): error C2146: 语法错误: 缺少“;”(在标识符“a”的前面)
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(28,10): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(28,10): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(28,16): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(28,16): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(28,19): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(28,23): warning C4552: ”<“: 未使用表达式结果
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(28,31): error C2059: 语法错误:“)”
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(29,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(32,26): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(32,26): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(32,32): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(32,32): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(32,35): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(34,9): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(34,9): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(34,15): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(34,15): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\eighteenth.c(34,18): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\eighth.c(18,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\develop\Sources\clearn\examination\examination\eighth.c(21,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+D:\develop\Sources\clearn\examination\examination\eighth.c(18,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  eleventh.c
+D:\develop\Sources\clearn\examination\examination\eleventh.c(31,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\eleventh.c(44,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\eleventh.c(49,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\eleventh.c(56,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  fifteenth.c
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(14,23): error C2065: “s2”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(14,28): error C2065: “s3”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(14,33): error C2065: “s4”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(18,9): error C2065: “s2”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(18,14): error C2065: “s2”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(22,9): error C2065: “s3”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(22,14): error C2065: “s3”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(23,9): error C2065: “s4”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(23,14): error C2065: “s4”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(25,14): error C2065: “s2”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(25,19): error C2065: “s3”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\fifteenth.c(25,24): error C2065: “s4”: 未声明的标识符
+  fifth.c
+  first.c
+D:\develop\Sources\clearn\examination\examination\first.c(50,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\first.c(64,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\first.c(65,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\first.c(68,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  fourteenth.c
+D:\develop\Sources\clearn\examination\examination\fourteenth.c(16,14): error C2106: “=”: 左操作数必须为左值
+D:\develop\Sources\clearn\examination\examination\fourteenth.c(17,17): error C2100: 无法取消引用类型为“int”的操作数
+  fourth.c
+D:\develop\Sources\clearn\examination\examination\fourth.c(17,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\fourth.c(18,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  nineteenth.c
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(16,17): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(16,17): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(16,23): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(16,23): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(16,26): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(16,31): error C2059: 语法错误:“)”
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(17,9): error C2146: 语法错误: 缺少“;”(在标识符“scanf”的前面)
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(33,13): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(33,13): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(33,19): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(33,19): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(33,22): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(39,5): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(39,5): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(39,11): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(39,11): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(39,14): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(42,5): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(42,5): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(42,11): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(42,11): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\nineteenth.c(42,14): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+  ninth.c
+D:\develop\Sources\clearn\examination\examination\ninth.c(15,9): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+D:\develop\Sources\clearn\examination\examination\ninth.c(23,12): warning C4477: “printf”: 格式字符串“%5.2f”需要类型“double”的参数，但可变参数 1 拥有了类型“float *”
+D:\develop\Sources\clearn\examination\examination\ninth.c(23,12): warning C4477: “printf”: 格式字符串“%5.2f”需要类型“double”的参数，但可变参数 2 拥有了类型“float *”
+D:\develop\Sources\clearn\examination\examination\ninth.c(16,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  second.c
+D:\develop\Sources\clearn\examination\examination\second.c(40,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+D:\develop\Sources\clearn\examination\examination\second.c(22,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  seventeenth.c
+D:\develop\Sources\clearn\examination\examination\seventeenth.c(34,5): warning C4013: “gets”未定义；假设外部返回 int
+D:\develop\Sources\clearn\examination\examination\seventeenth.c(50,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\seventeenth.c(55,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\seventeenth.c(60,5): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  seventh.c
+D:\develop\Sources\clearn\examination\examination\seventh.c(14,5): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\seventh.c(14,5): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(14,11): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\seventh.c(14,11): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(14,15): error C2146: 语法错误: 缺少“:”(在标识符“date”的前面)
+D:\develop\Sources\clearn\examination\examination\seventh.c(14,15): error C2065: “date”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(15,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\develop\Sources\clearn\examination\examination\seventh.c(18,6): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\seventh.c(18,6): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(18,12): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\seventh.c(18,12): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(18,15): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\seventh.c(22,24): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(22,26): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(22,30): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(22,32): error C2224: “.m”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(22,36): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(22,38): error C2224: “.d”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(22,11): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+      D:\develop\Sources\clearn\examination\examination\seventh.c(22,11):
+      占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+      D:\develop\Sources\clearn\examination\examination\seventh.c(22,11):
+      缺失的可变参数 1 为格式字符串“%d”所需
+  
+D:\develop\Sources\clearn\examination\examination\seventh.c(23,9): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(23,11): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(23,25): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(23,27): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(23,43): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(23,45): error C2224: “.y”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(25,13): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\seventh.c(25,13): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(25,19): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\seventh.c(25,19): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(25,22): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,9): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,11): error C2224: “.m”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,20): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,22): error C2224: “.m”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,30): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,32): error C2224: “.d”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,39): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,41): error C2224: “.d”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,45): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(26,47): error C2224: “.m”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(27,10): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(27,12): error C2224: “.n”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(27,16): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(27,18): error C2224: “.d”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(27,32): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(27,34): error C2224: “.m”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(27,45): error C2065: “x”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(27,47): error C2224: “.n”的左侧必须具有结构/联合类型
+D:\develop\Sources\clearn\examination\examination\seventh.c(29,22): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\seventh.c(29,22): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(29,28): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\seventh.c(29,28): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\seventh.c(29,31): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\seventh.c(22,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  sixteenth.c
+D:\develop\Sources\clearn\examination\examination\sixteenth.c(33,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\sixteenth.c(44,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\sixteenth.c(45,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\sixteenth.c(48,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  sixth.c
+D:\develop\Sources\clearn\examination\examination\sixth.c(20,13): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\sixth.c(20,13): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\sixth.c(20,19): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\sixth.c(20,19): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\sixth.c(20,22): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\sixth.c(24,13): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\sixth.c(24,13): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\sixth.c(24,19): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\sixth.c(24,19): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\sixth.c(24,22): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\sixth.c(27,17): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\sixth.c(27,17): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\sixth.c(27,23): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\sixth.c(27,23): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\sixth.c(27,26): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\sixth.c(17,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\sixth.c(30,12): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+D:\develop\Sources\clearn\examination\examination\sixth.c(30,12): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+D:\develop\Sources\clearn\examination\examination\sixth.c(30,12): error C2059: 语法错误:“字符串”
+D:\develop\Sources\clearn\examination\examination\sixth.c(30,29): error C2059: 语法错误:“)”
+D:\develop\Sources\clearn\examination\examination\sixth.c(31,5): error C2059: 语法错误:“return”
+D:\develop\Sources\clearn\examination\examination\sixth.c(32,1): error C2059: 语法错误:“}”
+  tenth.c
+D:\develop\Sources\clearn\examination\examination\tenth.c(31,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\tenth.c(43,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\tenth.c(48,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\tenth.c(56,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  third.c
+D:\develop\Sources\clearn\examination\examination\third.c(33,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  thirteenth.c
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(19,5): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(19,5): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(19,11): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(19,11): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(19,14): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(24,12): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(24,12): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(24,18): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(24,18): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(24,21): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(28,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(31,13): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(31,13): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(31,19): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(31,19): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(31,22): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(34,5): warning C4273: “puts”: dll 链接不一致
+      D:\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(358,26):
+      参见“puts”的前一个定义
+  
+D:\develop\Sources\clearn\examination\examination\thirteenth.c(35,1): error C2059: 语法错误:“}”
+  twelfth.c
+D:\develop\Sources\clearn\examination\examination\twelfth.c(16,21): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(16,21): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(16,27): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(16,27): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(16,30): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\twelfth.c(18,24): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(18,24): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(18,30): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(18,30): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(18,38): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\twelfth.c(18,43): error C2059: 语法错误:“)”
+D:\develop\Sources\clearn\examination\examination\twelfth.c(20,9): error C2143: 语法错误: 缺少“;”(在“if”的前面)
+D:\develop\Sources\clearn\examination\examination\twelfth.c(20,14): error C3872: “0x3010”: 此字符不允许在标识符中使用
+D:\develop\Sources\clearn\examination\examination\twelfth.c(20,14): error C2065: “p【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(20,13): error C2100: 无法取消引用类型为“int”的操作数
+D:\develop\Sources\clearn\examination\examination\twelfth.c(20,21): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(20,21): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(20,25): error C2297: “*”: 无效，因为右操作数的类型为“int *”
+D:\develop\Sources\clearn\examination\examination\twelfth.c(20,28): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\twelfth.c(22,33): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(22,33): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(22,39): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(22,39): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twelfth.c(22,49): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+  twentieth.c
+D:\develop\Sources\clearn\examination\examination\twentieth.c(15,17): error C2146: 语法错误: 缺少“)”(在标识符“n”的前面)
+D:\develop\Sources\clearn\examination\examination\twentieth.c(15,17): error C2061: 语法错误: 标识符“n”
+D:\develop\Sources\clearn\examination\examination\twentieth.c(15,17): error C2059: 语法错误:“;”
+D:\develop\Sources\clearn\examination\examination\twentieth.c(15,18): error C2059: 语法错误:“)”
+D:\develop\Sources\clearn\examination\examination\twentieth.c(16,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\develop\Sources\clearn\examination\examination\twentieth.c(26,1): error C2059: 语法错误:“}”
+  正在生成代码...
+  正在编译...
+  twenty_eighth.c
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(18,13): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(18,13): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(18,19): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(18,19): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(18,22): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(22,17): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(22,17): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(22,23): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(22,23): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(22,26): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(26,5): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(26,5): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(26,11): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(26,11): warning C4013: “】”未定义；假设外部返回 int
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(26,27): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\twenty_eighth.c(13,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  twenty_fifth.c
+D:\develop\Sources\clearn\examination\examination\twenty_fifth.c(30,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_fifth.c(47,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_fifth.c(52,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_fifth.c(59,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  twenty_first.c
+D:\develop\Sources\clearn\examination\examination\twenty_first.c(22,17): error C2296: “&”: 无效，因为左操作数的类型为“char [4]”
+D:\develop\Sources\clearn\examination\examination\twenty_first.c(22,5): error C2198: “int scanf(const char *const ,...)”: 用于调用的参数太少
+D:\develop\Sources\clearn\examination\examination\twenty_first.c(39,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+D:\develop\Sources\clearn\examination\examination\twenty_first.c(40,9): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+D:\develop\Sources\clearn\examination\examination\twenty_first.c(22,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  twenty_fourth.c
+D:\develop\Sources\clearn\examination\examination\twenty_fourth.c(33,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_fourth.c(44,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_fourth.c(45,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_fourth.c(48,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  twenty_ninth.c
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(18,18): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(18,18): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(18,24): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(18,24): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(18,27): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(21,9): error C2181: 没有匹配 if 的非法 else 
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(21,18): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(21,18): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(21,24): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(21,24): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(21,27): error C2143: 语法错误: 缺少“:”(在“)”的前面)
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(23,9): error C2181: 没有匹配 if 的非法 else 
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(32,5): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(32,5): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(32,11): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(32,11): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(32,14): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(33,5): warning C4013: “gets”未定义；假设外部返回 int
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(35,5): error C3873: “0x3010”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(35,5): error C2065: “【”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(35,11): error C3873: “0x3011”: 不允许将此字符作为标识符的第一个字符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(35,11): error C2065: “】”: 未声明的标识符
+D:\develop\Sources\clearn\examination\examination\twenty_ninth.c(35,14): error C2143: 语法错误: 缺少“:”(在“;”的前面)
+  twenty_second.c
+D:\develop\Sources\clearn\examination\examination\twenty_second.c(32,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_second.c(45,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_second.c(46,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_second.c(49,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  twenty_seventh.c
+D:\develop\Sources\clearn\examination\examination\twenty_seventh.c(32,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  twenty_sixth.c
+D:\develop\Sources\clearn\examination\examination\twenty_sixth.c(16,5): warning C4013: “gets”未定义；假设外部返回 int
+D:\develop\Sources\clearn\examination\examination\twenty_sixth.c(24,15): warning C4047: “=”:“char”与“char *”的间接级别不同
+D:\develop\Sources\clearn\examination\examination\twenty_sixth.c(32,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  twenty_third.c
+D:\develop\Sources\clearn\examination\examination\twenty_third.c(15,12): warning C4101: “j”: 未引用的局部变量
+D:\develop\Sources\clearn\examination\examination\twenty_third.c(15,9): warning C4101: “i”: 未引用的局部变量
+D:\develop\Sources\clearn\examination\examination\twenty_third.c(43,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_third.c(48,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\Sources\clearn\examination\examination\twenty_third.c(55,13): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
