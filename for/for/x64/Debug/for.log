@@ -1,0 +1,7 @@
+﻿  for.cpp
+D:\develop\Sources\Clanguage\clearn\for\for\for.cpp(27,4): error C2248: “Person::m_car”: 无法访问 protected 成员(在“Person”类中声明)
+      D:\develop\Sources\Clanguage\clearn\for\for\for.cpp(11,9):
+      参见“Person::m_car”的声明
+      D:\develop\Sources\Clanguage\clearn\for\for\for.cpp(5,7):
+      参见“Person”的声明
+  
