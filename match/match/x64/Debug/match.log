@@ -1,0 +1,9 @@
+﻿  match.cpp
+D:\develop\Sources\Clanguage\clearn\match\match\match.cpp(259,17): error C2664: “int isdigit(int)”: 无法将参数 1 从“std::string”转换为“int”
+      D:\develop\Sources\Clanguage\clearn\match\match\match.cpp(259,25):
+      没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+      D:\Windows Kits\10\Include\10.0.26100.0\ucrt\ctype.h(39,56):
+      参见“isdigit”的声明
+      D:\develop\Sources\Clanguage\clearn\match\match\match.cpp(259,17):
+      尝试匹配参数列表“(std::string)”时
+  
