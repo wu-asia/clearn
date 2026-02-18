@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\examination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_ninth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_ninth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_eighth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_eighth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_seventh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_seventh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_sixth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_sixth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_fifth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_fifth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_fourth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_fourth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_third.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_third.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_second.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_second.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_first.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twenty_first.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twentieth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twentieth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\nineteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\nineteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\eighteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\eighteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\seventeenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\seventeenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\sixteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\sixteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\fifteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\fifteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\fourteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\fourteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\thirteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\thirteenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\twelfth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\twelfth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\eleventh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\eleventh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\tenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\tenth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\ninth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\ninth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\eighth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\eighth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\seventh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\seventh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\sixth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\sixth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\fifth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\fifth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\fourth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\fourth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\third.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\third.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\first.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\first.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|D:\\develop\\Sources\\clearn\\examination\\examination\\second.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D670E5F5-AF3A-424C-9519-527AE5A95FD6}|examination\\examination.vcxproj|solutionrelative:examination\\second.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "twenty_ninth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_ninth.c",
+              "RelativeDocumentMoniker": "examination\\twenty_ninth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_ninth.c*",
+              "RelativeToolTip": "examination\\twenty_ninth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:29:20.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "twenty_eighth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_eighth.c",
+              "RelativeDocumentMoniker": "examination\\twenty_eighth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_eighth.c*",
+              "RelativeToolTip": "examination\\twenty_eighth.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:28:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "twenty_seventh.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_seventh.c",
+              "RelativeDocumentMoniker": "examination\\twenty_seventh.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_seventh.c*",
+              "RelativeToolTip": "examination\\twenty_seventh.c*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:28:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "twenty_sixth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_sixth.c",
+              "RelativeDocumentMoniker": "examination\\twenty_sixth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_sixth.c*",
+              "RelativeToolTip": "examination\\twenty_sixth.c*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:28:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "twenty_fifth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_fifth.c",
+              "RelativeDocumentMoniker": "examination\\twenty_fifth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_fifth.c*",
+              "RelativeToolTip": "examination\\twenty_fifth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:26:28.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "twenty_fourth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_fourth.c",
+              "RelativeDocumentMoniker": "examination\\twenty_fourth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_fourth.c*",
+              "RelativeToolTip": "examination\\twenty_fourth.c*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:26:18.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "twenty_third.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_third.c",
+              "RelativeDocumentMoniker": "examination\\twenty_third.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_third.c*",
+              "RelativeToolTip": "examination\\twenty_third.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:26:01.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "twenty_second.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_second.c",
+              "RelativeDocumentMoniker": "examination\\twenty_second.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_second.c*",
+              "RelativeToolTip": "examination\\twenty_second.c*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:25:50.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "twenty_first.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_first.c",
+              "RelativeDocumentMoniker": "examination\\twenty_first.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twenty_first.c*",
+              "RelativeToolTip": "examination\\twenty_first.c*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:25:39.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "twentieth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twentieth.c",
+              "RelativeDocumentMoniker": "examination\\twentieth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twentieth.c*",
+              "RelativeToolTip": "examination\\twentieth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:25:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "nineteenth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\nineteenth.c",
+              "RelativeDocumentMoniker": "examination\\nineteenth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\nineteenth.c*",
+              "RelativeToolTip": "examination\\nineteenth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:24:21.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eighteenth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\eighteenth.c",
+              "RelativeDocumentMoniker": "examination\\eighteenth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\eighteenth.c*",
+              "RelativeToolTip": "examination\\eighteenth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:23:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "seventeenth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\seventeenth.c",
+              "RelativeDocumentMoniker": "examination\\seventeenth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\seventeenth.c*",
+              "RelativeToolTip": "examination\\seventeenth.c*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:23:09.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sixteenth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\sixteenth.c",
+              "RelativeDocumentMoniker": "examination\\sixteenth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\sixteenth.c*",
+              "RelativeToolTip": "examination\\sixteenth.c*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:22:58.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fifteenth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\fifteenth.c",
+              "RelativeDocumentMoniker": "examination\\fifteenth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\fifteenth.c*",
+              "RelativeToolTip": "examination\\fifteenth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:21:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fourteenth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\fourteenth.c",
+              "RelativeDocumentMoniker": "examination\\fourteenth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\fourteenth.c*",
+              "RelativeToolTip": "examination\\fourteenth.c*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:21:19.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "thirteenth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\thirteenth.c",
+              "RelativeDocumentMoniker": "examination\\thirteenth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\thirteenth.c*",
+              "RelativeToolTip": "examination\\thirteenth.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:20:51.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "twelfth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\twelfth.c",
+              "RelativeDocumentMoniker": "examination\\twelfth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\twelfth.c*",
+              "RelativeToolTip": "examination\\twelfth.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:20:36.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "eleventh.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\eleventh.c",
+              "RelativeDocumentMoniker": "examination\\eleventh.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\eleventh.c*",
+              "RelativeToolTip": "examination\\eleventh.c*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:20:24.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tenth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\tenth.c",
+              "RelativeDocumentMoniker": "examination\\tenth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\tenth.c*",
+              "RelativeToolTip": "examination\\tenth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:20:05.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ninth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\ninth.c",
+              "RelativeDocumentMoniker": "examination\\ninth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\ninth.c*",
+              "RelativeToolTip": "examination\\ninth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:18:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "eighth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\eighth.c",
+              "RelativeDocumentMoniker": "examination\\eighth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\eighth.c*",
+              "RelativeToolTip": "examination\\eighth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:14:14.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "seventh.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\seventh.c",
+              "RelativeDocumentMoniker": "examination\\seventh.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\seventh.c*",
+              "RelativeToolTip": "examination\\seventh.c*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:14:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "sixth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\sixth.c",
+              "RelativeDocumentMoniker": "examination\\sixth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\sixth.c*",
+              "RelativeToolTip": "examination\\sixth.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:13:05.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fifth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\fifth.c",
+              "RelativeDocumentMoniker": "examination\\fifth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\fifth.c*",
+              "RelativeToolTip": "examination\\fifth.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:12:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "fourth.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\fourth.c",
+              "RelativeDocumentMoniker": "examination\\fourth.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\fourth.c*",
+              "RelativeToolTip": "examination\\fourth.c*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:12:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "third.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\third.c",
+              "RelativeDocumentMoniker": "examination\\third.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\third.c*",
+              "RelativeToolTip": "examination\\third.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:11:54.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "second.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\second.c",
+              "RelativeDocumentMoniker": "examination\\second.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\second.c",
+              "RelativeToolTip": "examination\\second.c",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:11:41.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "first.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\examination\\examination\\first.c",
+              "RelativeDocumentMoniker": "examination\\first.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\examination\\examination\\first.c",
+              "RelativeToolTip": "examination\\first.c",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-30T11:11:03.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
