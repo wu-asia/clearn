@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\strncmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|solutionrelative:buffer\\strncmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\strcmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|solutionrelative:buffer\\strcmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|solutionrelative:buffer\\pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\string_arr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|solutionrelative:buffer\\string_arr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\object.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB74299D-B7E7-43B3-A5D7-D51AEAE54DEE}|buffer\\buffer.vcxproj|solutionrelative:buffer\\object.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strcmp.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\strcmp.c",
+              "RelativeDocumentMoniker": "buffer\\strcmp.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\strcmp.c",
+              "RelativeToolTip": "buffer\\strcmp.c",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-26T09:08:18.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "strncmp.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\strncmp.c",
+              "RelativeDocumentMoniker": "buffer\\strncmp.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\strncmp.c*",
+              "RelativeToolTip": "buffer\\strncmp.c*",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-26T09:04:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "object.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\object.c",
+              "RelativeDocumentMoniker": "buffer\\object.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\object.c",
+              "RelativeToolTip": "buffer\\object.c",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-25T11:53:10.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "string_arr.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\string_arr.c",
+              "RelativeDocumentMoniker": "buffer\\string_arr.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\string_arr.c",
+              "RelativeToolTip": "buffer\\string_arr.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-24T06:39:33.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pointer.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\pointer.c",
+              "RelativeDocumentMoniker": "buffer\\pointer.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\buffer\\buffer\\pointer.c",
+              "RelativeToolTip": "buffer\\pointer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-23T12:58:32.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
