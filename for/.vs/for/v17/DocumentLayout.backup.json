@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\Clanguage\\clearn\\for\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A75DBA6-0850-463D-AC1B-718E66972E0B}|for\\for.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\for\\for\\for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A75DBA6-0850-463D-AC1B-718E66972E0B}|for\\for.vcxproj|solutionrelative:for\\for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for.cpp",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\for\\for\\for.cpp",
+              "RelativeDocumentMoniker": "for\\for.cpp",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\for\\for\\for.cpp*",
+              "RelativeToolTip": "for\\for.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T02:31:44.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

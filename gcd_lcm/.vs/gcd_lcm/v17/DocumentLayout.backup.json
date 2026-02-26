@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\solu2\\gcd_lcm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B14073D-7AAF-4371-9DB9-8A0365D1E9EE}|gcd_lcm\\gcd_lcm.vcxproj|D:\\develop\\Sources\\solu2\\gcd_lcm\\gcd_lcm\\gcd_lcm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B14073D-7AAF-4371-9DB9-8A0365D1E9EE}|gcd_lcm\\gcd_lcm.vcxproj|solutionrelative:gcd_lcm\\gcd_lcm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gcd_lcm.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\solu2\\gcd_lcm\\gcd_lcm\\gcd_lcm.c",
+              "RelativeDocumentMoniker": "gcd_lcm\\gcd_lcm.c",
+              "ToolTip": "D:\\develop\\Sources\\solu2\\gcd_lcm\\gcd_lcm\\gcd_lcm.c",
+              "RelativeToolTip": "gcd_lcm\\gcd_lcm.c",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-24T01:08:34.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\Clanguage\\clearn\\hajimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D7692A-142E-4B4B-AFEB-8FADC11CB2BC}|hajimi\\hajimi.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\hajimi\\hajimi\\hajimi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9D7692A-142E-4B4B-AFEB-8FADC11CB2BC}|hajimi\\hajimi.vcxproj|solutionrelative:hajimi\\hajimi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hajimi.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\hajimi\\hajimi\\hajimi.c",
+              "RelativeDocumentMoniker": "hajimi\\hajimi.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\hajimi\\hajimi\\hajimi.c*",
+              "RelativeToolTip": "hajimi\\hajimi.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-19T02:09:51.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

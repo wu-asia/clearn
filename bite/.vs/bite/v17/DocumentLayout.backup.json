@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\Clanguage\\clearn\\bite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A960B15-F2D3-4198-82E7-8B54EC7BF091}|bite\\bite.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\bite\\bite\\u.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A960B15-F2D3-4198-82E7-8B54EC7BF091}|bite\\bite.vcxproj|solutionrelative:bite\\u.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "u.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\bite\\bite\\u.c",
+              "RelativeDocumentMoniker": "bite\\u.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\bite\\bite\\u.c",
+              "RelativeToolTip": "bite\\u.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-19T02:06:25.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
