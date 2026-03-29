@@ -1,0 +1,6 @@
+﻿  olinejustic.c
+D:\develop\Sources\clearn\work\work\olinejustic.c(196,5): warning C4013: “gets”未定义；假设外部返回 int
+D:\develop\Sources\clearn\work\work\olinejustic.c(214,5): warning C4013: “pirntf”未定义；假设外部返回 int
+D:\develop\Sources\clearn\work\work\olinejustic.c(197,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+olinejustic.obj : error LNK2019: 无法解析的外部符号 pirntf，函数 main 中引用了该符号
+D:\develop\Sources\clearn\work\x64\Debug\work.exe : fatal error LNK1120: 1 个无法解析的外部命令

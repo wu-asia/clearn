@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\clearn\\work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|D:\\develop\\Sources\\clearn\\work\\work\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|solutionrelative:work\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|D:\\develop\\Sources\\clearn\\work\\work\\pi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|solutionrelative:work\\pi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|D:\\develop\\Sources\\clearn\\work\\work\\olinejustic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|solutionrelative:work\\olinejustic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|D:\\develop\\Sources\\clearn\\work\\work\\next.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|solutionrelative:work\\next.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|D:\\develop\\Sources\\clearn\\work\\work\\print.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|solutionrelative:work\\print.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|D:\\develop\\Sources\\clearn\\work\\work\\work.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3227E4D4-DB74-40FC-811B-52E082963DAA}|work\\work.vcxproj|solutionrelative:work\\work.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\work\\work\\test.c",
+              "RelativeDocumentMoniker": "work\\test.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\work\\work\\test.c*",
+              "RelativeToolTip": "work\\test.c*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-19T12:14:07.757Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pi.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\work\\work\\pi.c",
+              "RelativeDocumentMoniker": "work\\pi.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\work\\work\\pi.c",
+              "RelativeToolTip": "work\\pi.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-19T03:24:13.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "olinejustic.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\work\\work\\olinejustic.c",
+              "RelativeDocumentMoniker": "work\\olinejustic.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\work\\work\\olinejustic.c",
+              "RelativeToolTip": "work\\olinejustic.c",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAmwNcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-19T01:33:57.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "next.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\work\\work\\next.c",
+              "RelativeDocumentMoniker": "work\\next.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\work\\work\\next.c",
+              "RelativeToolTip": "work\\next.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-18T13:13:28.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "print.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\work\\work\\print.c",
+              "RelativeDocumentMoniker": "work\\print.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\work\\work\\print.c",
+              "RelativeToolTip": "work\\print.c",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-18T12:44:27.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "work.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\clearn\\work\\work\\work.c",
+              "RelativeDocumentMoniker": "work\\work.c",
+              "ToolTip": "D:\\develop\\Sources\\clearn\\work\\work\\work.c",
+              "RelativeToolTip": "work\\work.c",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-18T11:54:29.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
