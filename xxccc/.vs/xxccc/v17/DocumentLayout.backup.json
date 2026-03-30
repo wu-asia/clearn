@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\mu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\mu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ccc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\ccc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\aaa.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\aaa.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\fff.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\fff.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ggg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\ggg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ggg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\ggg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\eee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\eee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ddd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\ddd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\bbb.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3073671-C32F-4665-B605-69F0AF6EF2FB}|xxccc\\xxccc.vcxproj|solutionrelative:xxccc\\bbb.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "eee.cpp",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\eee.cpp",
+              "RelativeDocumentMoniker": "xxccc\\eee.cpp",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\eee.cpp*",
+              "RelativeToolTip": "xxccc\\eee.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T08:35:20.293Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mu.cpp",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\mu.cpp",
+              "RelativeDocumentMoniker": "xxccc\\mu.cpp",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\mu.cpp",
+              "RelativeToolTip": "xxccc\\mu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-14T12:53:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ggg.cpp",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ggg.cpp",
+              "RelativeDocumentMoniker": "xxccc\\ggg.cpp",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ggg.cpp",
+              "RelativeToolTip": "xxccc\\ggg.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwGcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-13T01:47:47.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ggg.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ggg.c",
+              "RelativeDocumentMoniker": "xxccc\\ggg.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ggg.c",
+              "RelativeToolTip": "xxccc\\ggg.c",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-13T01:47:20.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fff.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\fff.c",
+              "RelativeDocumentMoniker": "xxccc\\fff.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\fff.c",
+              "RelativeToolTip": "xxccc\\fff.c",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAiwKIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-12T08:36:05.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ddd.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ddd.c",
+              "RelativeDocumentMoniker": "xxccc\\ddd.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ddd.c",
+              "RelativeToolTip": "xxccc\\ddd.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-12T08:33:44.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "aaa.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\aaa.c",
+              "RelativeDocumentMoniker": "xxccc\\aaa.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\aaa.c",
+              "RelativeToolTip": "xxccc\\aaa.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwEwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-12T08:32:44.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bbb.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\bbb.c",
+              "RelativeDocumentMoniker": "xxccc\\bbb.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\bbb.c",
+              "RelativeToolTip": "xxccc\\bbb.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-12T08:31:46.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ccc.c",
+              "DocumentMoniker": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ccc.c",
+              "RelativeDocumentMoniker": "xxccc\\ccc.c",
+              "ToolTip": "D:\\develop\\Sources\\Clanguage\\clearn\\xxccc\\xxccc\\ccc.c",
+              "RelativeToolTip": "xxccc\\ccc.c",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwIMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-12T08:28:31.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

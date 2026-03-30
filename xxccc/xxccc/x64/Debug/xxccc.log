@@ -1,0 +1,4 @@
+﻿  ccc.c
+  mu.cpp
+x64\Debug\ggg.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  xxccc.vcxproj -> D:\develop\Sources\Clanguage\clearn\xxccc\x64\Debug\xxccc.exe
