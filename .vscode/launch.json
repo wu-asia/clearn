@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "自定义分包Java运行",
+            "request": "launch",
+            // 自动解析当前文件对应的完整类名
+            "mainClass": "${fileBasenameNoExtension}",
+            "cwd": "${workspaceFolder}/Study",
+            "classPaths": [
+                "${workspaceFolder}/Study"
+            ],
+            "encoding": "UTF-8"
+        }
+    ]
+}
