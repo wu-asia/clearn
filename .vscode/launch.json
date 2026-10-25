@@ -1,17 +1,21 @@
 {
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "自定义分包Java运行",
-            "request": "launch",
-            // 自动解析当前文件对应的完整类名
-            "mainClass": "${fileBasenameNoExtension}",
-            "cwd": "${workspaceFolder}/Study",
-            "classPaths": [
-                "${workspaceFolder}/Study"
-            ],
-            "encoding": "UTF-8"
-        }
-    ]
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "StudentTest1",
+      "request": "launch",
+      "mainClass": "java_code.上机3.StudentTest1",
+      "projectName": "vscode_java_e73bea4c"
+    },
+    {
+      "type": "java",
+      "name": "自定义分包Java运行",
+      "request": "launch",
+      "mainClass": "${fileBasenameNoExtension}",
+      "cwd": "${workspaceFolder}/Study",
+      "classPaths": ["${workspaceFolder}/Study"],
+      "encoding": "UTF-8"
+    }
+  ]
 }

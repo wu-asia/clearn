@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ArrayDemo{
+public class ArrayTest{
     public static void main(String[] args){
         int[] arr = new int[5];
         Scanner sc = new Scanner(System.in);
@@ -10,5 +10,6 @@ public class ArrayDemo{
             System.out.print(arr[i] + " ");
         }
         System.out.println();
+        sc.close();
     }
 }
