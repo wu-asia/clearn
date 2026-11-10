@@ -21,7 +21,7 @@ class GraduateStudent implements Task{
 }
 public class GraduateStudentTest {
     public static void main(String[] args){
-        GraduateStudent s1 = new GraduateStudent("课题信息");
-        System.out.println(s1.getTaskInfo());
+        GraduateStudent s1 = new GraduateStudent("计算机科学");
+        System.out.println("他的课题: " + s1.getTaskInfo());
     }
 }
